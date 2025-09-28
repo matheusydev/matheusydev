@@ -1,36 +1,8 @@
-<h2 align="center">👨‍💻 About Me / Sobre Mim</h2>
+<h1 align="center">👨‍💻 About Me / Sobre Mim</h1>
 
 ###
 
-<p align="left">
-  👋 My name is <strong>Matheus Ylan</strong> <em>(Meu nome é Matheus Ylan)</em><br><br>
-  🎓 I’m an <strong>Electronics Technician</strong> <em>(Sou técnico em Eletrônica)</em><br><br>
-  💻 Currently studying <strong>Systems Analysis and Development</strong> at <strong>IFPI</strong> (Federal Institute of Piauí) 
-  <em>(Atualmente curso Análise e Desenvolvimento de Sistemas no IFPI - Instituto Federal do Piauí)</em><br><br>
-  🚀 Passionate about <strong>technology</strong> <em>(Apaixonado por tecnologia)</em><br><br>
-  📚 Always exploring new topics to <strong>grow in my career</strong> 
-  <em>(Sempre buscando novos conhecimentos para evoluir na carreira)</em>
-</p>
-
-
-
-###
-
-<h2 align="center">💡Tech Stack / Tecnologias</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-</div>
+<p align="left">👋 My name is Matheus Ylan (Meu nome é Matheus Ylan)<br><br>🎓 I’m an Electronics Technician (Sou técnico em Eletrônica)<br><br>💻 Currently studying Systems Analysis and Development at IFPI (Federal Institute of Piauí) (Atualmente curso Análise e Desenvolvimento de Sistemas no IFPI - Instituto Federal do Piauí)<br><br>🚀 Passionate about technology (Apaixonado por tecnologia)<br><br>📚 Always exploring new topics to grow in my career (Sempre buscando novos conhecimentos para evoluir na carreira)</p>
 
 ###
 
@@ -41,18 +13,41 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
 ###
+
+<h1 align="center">💡Tech Stack / Tecnologias</h1>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
+
+###
+
 
 <h2 align="center">🌐 Social Media / Rede Social</h2>
 
