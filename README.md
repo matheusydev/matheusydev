@@ -13,8 +13,6 @@
 <div align="left">
   <a href="https://www.python.org" target="_blank"
     ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" /></a
-  ><a href="https://en.cppreference.com/w/c" target="_blank"
-    ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" height="45" alt="c" /></a
   ><a href="https://isocpp.org/" target="_blank"
     ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus" /></a
   ><a href="https://git-scm.com/" target="_blank"
