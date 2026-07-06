@@ -78,7 +78,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusydev&theme=midnight-purple&hide_border=true" width="68%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusydev&theme=midnight-purple&hide_border=true" width="100%"/>
 </div>
 
 ---
