@@ -1,91 +1,105 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:2E1065&height=220&section=header&text=Matheus%20Ylan%20Araújo%20Moraes&fontSize=42&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6D28D9&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full-Stack+%26+Mobile;React-Native%2C+TypeScript+%26+Node.js;APIs+REST+com+Node.js+%26+Express;Explorando+o+ecossistema+Java+%26+Spring+Boot" alt="Typing SVG" />
+</a>
+
 <h1 align="left">Sobre Mim</h1>
 
-
-
 <p align="left">
-  What's up? Me chamo Matheus Ylan, desenvolvedor full-stack focado na criação de aplicações web
-  modernas, performáticas e com boas experiências de usuário. Trabalho com React, TypeScript e
-  Tailwind CSS no front-end, Node.js e Express no back-end, e PostgreSQL e MongoDB como bancos de
-  dados. Tenho formação técnica em Eletrônica e curso ADS no IFPI, aprofundando meus conhecimentos
-  em arquitetura de aplicações e boas práticas de desenvolvimento.
-</p>
+  What's up? Me chamo Matheus Ylan, desenvolvedor Full-Stack e estudante de Análise e
+  Desenvolvimento de Sistemas no IFPI, com formação técnica em Eletrônica. Atuo com front-end,
+  back-end e mobile em projetos acadêmicos e profissionais, utilizando React, React Native,
+  TypeScript, Node.js, Express e Django REST Framework, além de bancos como PostgreSQL e
+  MongoDB. Desde 2023, também sou Pesquisador/Desenvolvedor no LABIRAS (Laboratory of
+  Intelligent Robotics, Automation and Systems), onde aplico essas habilidades no
+  desenvolvimento de sistemas e soluções web, além de projetos em Realidade Aumentada,
+  Realidade Virtual, IoT e robótica, participando também de capacitações voltadas ao
+  mercado de trabalho. Atualmente, aprofundo conhecimentos em Java, Spring Boot e
+  arquitetura de software (SOLID, Design Patterns, Swagger/OpenAPI), buscando continuar
+  evoluindo na criação de aplicações robustas. </p>
 
-<br clear="right"/>
 
----
-
-<h1 align="left">Tech Stack</h1>
-
-<h3>Front-End</h3>
-<p>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/></a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/></a>
-  <a href="https://react.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/></a>
-  <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS"/></a>
-</p>
-
-<h3>Back-End & Banco de Dados</h3>
-<p>
-  <a href="https://nodejs.org/docs/latest/api/" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://cdn.simpleicons.org/express/808080" height="40" alt="Express"/></a>
-  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/></a>
-  <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/></a>
-</p>
-
-<h3>Ferramentas</h3>
-<p>
-  <a href="https://git-scm.com/doc" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/></a>
-  <a href="https://docs.docker.com" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker"/></a>
-  <a href="https://help.figma.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/></a>
-  <a href="https://www.notion.so/help" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion"/></a>
-  <a href="https://help.obsidian.md" target="_blank"><img src="https://cdn.simpleicons.org/obsidian/7C3AED" height="40" alt="Obsidian"/></a>
-</p>
-
-<h3>Sistemas Embarcados & IA</h3>
-<p>
-  <a href="https://cplusplus.com/doc/tutorial/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/></a>
-  <a href="https://platformio.org/" target="_blank"><img src="https://cdn.simpleicons.org/platformio/F5822A" height="40" alt="PlatformIO"/></a>
-  <a href="https://docs.python.org/3/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/></a>
-</p>
+<br/>
 
 ---
 
-<!-- <h1 align="left">Projetos em Destaque</h1>
+<h1 align="center">Projetos</h1>
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [**ESP32 VR Monitor**](https://github.com/matheusydev/) | Integração entre ESP32 e Meta Quest 2 com sensores físicos e comunicação em tempo real via WebSocket | `C++` `ESP32` `Unity` `C#` |
+| [**realtime-voting-api**](https://github.com/matheusydev/realtime-voting-api) | API de votação em tempo real com triggers em banco de dados e atualização via WebSocket | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) |
+| [**Desafio Medclub Backend**](https://github.com/matheusydev/Desafio-Medclub-Backend) | API REST para gerenciamento de consultas médicas, com CRUD completo e documentação interativa via Swagger | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white) |
+| [**Desafio Medclub React Native**](https://github.com/matheusydev/Desafio-Medclub-React-Native) | Aplicativo mobile para agendar e gerenciar consultas médicas, com tipagem alinhada à API Django | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white) |
 
---- -->
+<h1 align="center">Tech Stack</h1>
 
-<h1 align="left">GitHub Stats</h1>
+<h3 align="left">Linguagens</h3>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusydev&theme=midnight-purple&hide_border=true" height="150"/>
-</div>
+![TypeScript](https://skillicons.dev/icons?i=typescript) 
+![JavaScript](https://skillicons.dev/icons?i=javascript) 
+![Python](https://skillicons.dev/icons?i=python) 
+![C++](https://skillicons.dev/icons?i=cpp)
+
+<h3 align="left">Front-End</h3>
+
+![HTML5](https://skillicons.dev/icons?i=html) 
+![CSS3](https://skillicons.dev/icons?i=css) 
+![React](https://skillicons.dev/icons?i=react) 
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+
+<h3 align="left">Back-End & Bancos de Dados</h3>
+
+![Node.js](https://skillicons.dev/icons?i=nodejs) 
+![Express](https://skillicons.dev/icons?i=express) 
+![Django](https://skillicons.dev/icons?i=django) 
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) 
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+<h3 align="left">Nuvem, DevOps & Ferramentas</h3>
+
+![Docker](https://skillicons.dev/icons?i=docker) 
+![Vercel](https://skillicons.dev/icons?i=vercel) 
+![Git](https://skillicons.dev/icons?i=git) 
+![GitHub](https://skillicons.dev/icons?i=github) 
+![Notion](https://skillicons.dev/icons?i=notion)
+![Figma](https://skillicons.dev/icons?i=figma) 
+![Render](https://skillicons.dev/icons?i=render)
+
+
+---
+
+<h1 align="center">Analytics do GitHub</h1>
+
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusydev&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true" height="150" alt="stats"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusydev&layout=compact&langs_count=5&theme=midnight-purple&hide_border=true" height="150" alt="languages"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusydev&theme=midnight-purple&hide_border=true" width="68%"/>
+</div>
+
 ---
 
-<h1 align="left">Redes Sociais</h1>
+<h1 align="center">Contato</h1>
 
-<div align="left">
-  <a href="https://br.linkedin.com/in/matheus-ylan-ara%C3%BAjo-moraes-411615350" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/theus_.arj/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:matheusylanaraujo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://matheus-ylan.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.dot.io&logoColor=white" alt="Itch.io"/>
-  </a>
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-6D28D9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theus_.arj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/matheus-ylan-ara%C3%BAjo-moraes-411615350)
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusylanaraujo@gmail.com)
+
 </div>
+
+<div align="center">
+
+*"Apesar de tudo, ainda é você."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:2E1065&height=120&section=footer" width="100%"/>
+
+</div>
+
+
