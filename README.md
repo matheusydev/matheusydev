@@ -28,7 +28,8 @@
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [**realtime-voting-api**](https://github.com/matheusydev/realtime-voting-api) | API de votação em tempo real com triggers em banco de dados e atualização via WebSocket | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) |
+| [**Sistema de gestão de funcionários - EMS**](https://github.com/matheusydev/sistema-gestao-funcionarios) | Sistema Full Stack de gestão de funcionários (em desenvolvimento) com autenticação por perfis, controle de ponto, licenças e contracheques. Desenvolvido com React, Tailwind, Node.js, Express e MongoDB. | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| [**CRUD-USERS**](https://github.com/matheusydev/CRUD-USERS-API) ([Frontend](https://github.com/matheusydev/CRUD-USERS-WEB)) | Aplicação Full Stack para gerenciamento de usuários com API REST com Node.js, Prisma e MongoDB Atlas e interface web em React. Utiliza Git Flow, com deploy na Vercel (frontend) e Render (backend) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
 | [**Desafio Medclub Backend**](https://github.com/matheusydev/Desafio-Medclub-Backend) | API REST para gerenciamento de consultas médicas, com CRUD completo e documentação interativa via Swagger | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white) |
 | [**Desafio Medclub React Native**](https://github.com/matheusydev/Desafio-Medclub-React-Native) | Aplicativo mobile para agendar e gerenciar consultas médicas, com tipagem alinhada à API Django | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white) |
 
@@ -55,6 +56,7 @@
 ![Django](https://skillicons.dev/icons?i=django) 
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres) 
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Prisma](https://skillicons.dev/icons?i=prisma)
 
 <h3 align="left">Nuvem, DevOps & Ferramentas</h3>
 
@@ -78,7 +80,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusydev&theme=midnight-purple&hide_border=true" width="64%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusydev&theme=midnight-purple&hide_border=true" width="70%"/>
 </div>
 
 
