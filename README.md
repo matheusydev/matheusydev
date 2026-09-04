@@ -41,6 +41,7 @@
 ![JavaScript](https://skillicons.dev/icons?i=javascript) 
 ![Python](https://skillicons.dev/icons?i=python) 
 ![C++](https://skillicons.dev/icons?i=cpp)
+![Dart](https://skillicons.dev/icons?i=dart)
 
 <h3 align="left">Front-End</h3>
 
@@ -48,6 +49,7 @@
 ![CSS3](https://skillicons.dev/icons?i=css) 
 ![React](https://skillicons.dev/icons?i=react) 
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![Flutter](https://skillicons.dev/icons?i=flutter)
 
 <h3 align="left">Back-End & Bancos de Dados</h3>
 
