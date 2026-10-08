@@ -54,7 +54,7 @@
 
 <h3 align="left">Back-End & Bancos de Dados</h3>
 
-![Back-End & Bancos de Dados](https://skillicons.dev/icons?i=nodejs,express,django,postgres,mongodb,firebase,prisma,supabase)
+![Back-End & Bancos de Dados](https://skillicons.dev/icons?i=nodejs,express,django,postgres,mongodb,firebase,prisma)
 
 <h3 align="left">Nuvem, DevOps & Ferramentas</h3>
 
