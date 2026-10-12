@@ -67,8 +67,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusydev&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true" height="150" alt="stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusydev&layout=compact&langs_count=5&theme=midnight-purple&hide_border=true" height="150" alt="languages"/>
+  <img src="https://github-readme-stats-sable-three-96.vercel.app/api?username=matheusydev&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true" height="150" alt="stats"/>
+  <img src="https://github-readme-stats-sable-three-96.vercel.app/api/top-langs/?username=matheusydev&layout=compact&langs_count=5&theme=midnight-purple&hide_border=true" height="150" alt="languages"/>
 </div>
 
 <div align="center">
