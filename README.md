@@ -58,7 +58,11 @@
 
 <h3 align="left">Nuvem, DevOps & Ferramentas</h3>
 
-![Nuvem, DevOps & Ferramentas](https://skillicons.dev/icons?i=docker,vercel,git,github,notion,figma,render)
+![Nuvem, DevOps & Ferramentas](https://skillicons.dev/icons?i=docker,vercel,git,github,notion,figma)
+
+<!-- <h3 align="left">IA & Visão Computacional</h3>
+
+![IA & Visão Computacional](https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,sklearn) -->
 
 
 ---
