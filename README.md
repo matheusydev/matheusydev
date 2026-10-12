@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:2E1065&height=220&section=header&text=Matheus%20Ylan%20Ara%C3%BAjo%20Moraes&fontSize=42&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6D28D9&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full-Stack+%26+Mobile;React+Native%2C+TypeScript+%26+Node.js;APIs+REST+com+Node.js+%26+Express" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full-Stack+%26+Mobile;React+Native%2C+TypeScript+%26+Node.js;APIs+REST+com+Node.js+%26+Express" alt="Typing SVG" />
 </a>
 
 <h1 align="center">Sobre Mim</h1>
