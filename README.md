@@ -23,7 +23,8 @@
 <p align="left">
   Atualmente, sou residente em Realidade Aumentada pelo IREDE, desenvolvendo experiências
   imersivas em WebAR, do planejamento à prototipagem e testes com usuários. Paralelamente, meu
-  foco de estudos é arquitetura de software (SOLID, Design Patterns, Swagger/OpenAPI).
+  foco de estudos é arquitetura de software (SOLID e Design Patterns) e documentação de APIs
+  com Swagger/OpenAPI.
 </p>
 
 
