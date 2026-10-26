@@ -48,25 +48,30 @@
 
 <h1 align="center">Tech Stack</h1>
 
-<h3 align="left">Linguagens</h3>
+<h3 align="center">Linguagens</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,dart" alt="Linguagens" />
+</p>
 
-![Linguagens](https://skillicons.dev/icons?i=typescript,javascript,python,cpp,dart)
+<h3 align="center">Front-End</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,flutter" alt="Front-End" />
+</p>
 
-<h3 align="left">Front-End</h3>
+<h3 align="center">Back-End & Bancos de Dados</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mongodb,firebase,prisma" alt="Back-End & Bancos de Dados" />
+</p>
 
-![Front-End](https://skillicons.dev/icons?i=html,css,react,tailwind,flutter)
+<h3 align="center">Nuvem, DevOps & Ferramentas</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,notion,figma" alt="Nuvem, DevOps & Ferramentas" />
+</p>
 
-<h3 align="left">Back-End & Bancos de Dados</h3>
-
-![Back-End & Bancos de Dados](https://skillicons.dev/icons?i=nodejs,express,django,postgres,mongodb,firebase,prisma)
-
-<h3 align="left">Nuvem, DevOps & Ferramentas</h3>
-
-![Nuvem, DevOps & Ferramentas](https://skillicons.dev/icons?i=docker,vercel,git,github,notion,figma)
-
-<!-- <h3 align="left">IA & Visão Computacional</h3>
-
-![IA & Visão Computacional](https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,sklearn) -->
+<!-- <h3 align="center">IA & Visão Computacional</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,sklearn" alt="IA & Visão Computacional" />
+</p> -->
 
 
 ---
