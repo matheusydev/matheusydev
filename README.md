@@ -81,11 +81,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sable-three-96.vercel.app/api?username=matheusydev&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true" height="150" alt="stats"/>
-  <img src="https://github-readme-stats-sable-three-96.vercel.app/api/top-langs/?username=matheusydev&layout=compact&langs_count=5&hide=jupyter%20notebook&theme=midnight-purple&hide_border=true" height="150" alt="languages"/>
+  <img src="https://github-readme-stats-sable-three-96.vercel.app/api/top-langs/?username=matheusydev&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,tex,shaderlab,hlsl,glsl&theme=midnight-purple&hide_border=true" height="150" alt="languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=matheusydev&theme=midnight-purple&hide_border=true" width="70%" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=matheusydev&theme=midnight-purple&hide_border=true" width="600" alt="streak"/>
 </div>
 
 
