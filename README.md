@@ -50,7 +50,7 @@
 
 <h3 align="center">Linguagens</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,dart" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,dart,cpp" alt="Linguagens" />
 </p>
 
 <h3 align="center">Front-End</h3>
@@ -65,7 +65,7 @@
 
 <h3 align="center">Nuvem, DevOps & Ferramentas</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,notion,figma" alt="Nuvem, DevOps & Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=docker,vercel,linux,git,github,notion,figma" alt="Nuvem, DevOps & Ferramentas" />
 </p>
 
 <!-- <h3 align="center">IA & Visão Computacional</h3>
