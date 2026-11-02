@@ -104,7 +104,7 @@
 
 <div align="center">
 
-*"Apesar de tudo, ainda é você."*
+*"Despite everything, it's still you"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:2E1065&height=120&section=footer" width="100%" alt=""/>
 
