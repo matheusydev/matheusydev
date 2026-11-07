@@ -73,6 +73,12 @@
   <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,sklearn" alt="IA & Visão Computacional" />
 </p> -->
 
+<!-- <h3 align="center">Análise de Dados & BI</h3>
+<p align="center">
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="48" alt="Power BI" />
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="48" alt="Excel" />
+  <img src="https://skillicons.dev/icons?i=py,postgres,mysql,figma" height="48" alt="Python, SQL e Figma" />
+</p> -->
 
 ---
 
