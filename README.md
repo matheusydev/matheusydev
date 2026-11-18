@@ -92,7 +92,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=matheusydev&theme=midnight-purple&hide_border=true" width="600" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=matheusydev&theme=midnight-purple&hide_border=true&timezone=America/Fortaleza&v=2" width="600" alt="streak"/>
 </div>
 
 
